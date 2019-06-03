@@ -21,6 +21,7 @@
 - spam(ad) users, DDos attack, communities
   -> 그래픽 데이터에서 이것들을 분류
 - triangle enumeration
+
   -> 그래프에 존재하는 모든 삼각형을 찾아낸다.
 
 - Application 1. facebook의 유저를 분석-> spam(ad) users를 찾음
